@@ -1,0 +1,7 @@
+apiVersion: my.example.com/v1alpha1
+kind: Runaway
+metadata:
+  name: example-runaway
+spec:
+  # Add fields here
+  size: 3
